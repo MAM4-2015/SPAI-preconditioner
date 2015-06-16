@@ -98,7 +98,7 @@ for k in 1:n^dim    #rajouter la parallélisation
 		ekchap = e(A, k)[I] ;
 		Cchap = Q'*ekchap ;
 
-		#mkchap = R\Cchap[1:n2];
+		#mkchap = R\Cchap[1:n2]; #Problème Stack Overflow
 
 		mkchap = inv(R)*Cchap[1:n2];
 		r = A[:, J]*mkchap - e(A, k);
