@@ -3,7 +3,7 @@
 
 _Langage utilisé : Julia_
 
-Les fichiers de ce dépot permettent la réalisation d'un préconditionnement d'une matrice sparse. Très largement inspiré de la méthode de M. J. Grote et T. Huckle _Parallel precontionning with sparse approximate inverses_. 
+Les fichiers de ce dépot permettent la réalisation d'un préconditionnement d'une matrice sparse. Très largement inspiré de la méthode de M. J. Grote et T. Huckle _Parallel preconditionning with sparse approximate inverses_. 
 
 Fichiers : 
 
