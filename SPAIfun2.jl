@@ -1,5 +1,7 @@
 function SPAI2(A, eps, itermax)
 
+#A est en argument
+
 n = size(A)[1] ;
 dim = 1;
 
