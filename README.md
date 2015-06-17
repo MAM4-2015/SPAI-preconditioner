@@ -19,7 +19,7 @@ Difficulté :
 
 Auteur :
 
-Yacine BERKANE, Kévin ELIE-DIT-COSAQUE, Wahid MAINASSARA, Laurent PAGLIARI
+Yacine BERKANE, Kévin ELIE-DIT-COSAQUE, Abdoul-Wahid MAINASSARA, Laurent PAGLIARI
 
 Pour toute question n'hésitez pas à nous contacter.
 
