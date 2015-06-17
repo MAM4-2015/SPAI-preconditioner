@@ -21,6 +21,8 @@ Auteur :
 
 Yacine BERKANE, Kévin ELIE-DIT-COSAQUE, Abdoul-Wahid MAINASSARA, Laurent PAGLIARI
 
+Ecole : Polytech Lyon/UCBL
+
 Pour toute question n'hésitez pas à nous contacter.
 
 Professeur encadrant :
